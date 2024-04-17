@@ -1,4 +1,4 @@
-name: Publish Ansible role to Galaxy
+name: Publish Ansible role to Galaxy (test legacy-role)
 description: Publish Ansible role to Galaxy
 author: Robert de Bock <robert@meinit.nl>
 
