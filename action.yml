@@ -10,7 +10,7 @@ inputs:
     description: The git branch you want to upload.
     required: false
     default: "master"
-  path:
+  legacy-role:
     description: The (relative) location of your role.
     required: false
     default: "./"
